@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">A passionate developer from India<br><br>- 📚 I'm currently learning backend <br>- ⚡ In my free time I play with AWS and Linux</p>
+<p align="left">A passionate developer from Milky Way<br><br>- 📚 I'm currently learning backend <br>- ⚡ In my free time I play with AWS and Linux</p>
 
 ###
 
